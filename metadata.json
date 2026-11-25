@@ -1,0 +1,6 @@
+{
+  "name": "Krisis Media Sosial Manager",
+  "description": "Aplikasi web responsif untuk memantau, memverifikasi, mengklasifikasikan, merespons, dan mengevaluasi krisis media sosial secara terstruktur dalam 8 tahap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
